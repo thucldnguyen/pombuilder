@@ -46,8 +46,10 @@ How to use?
 
 ## Useful Resources
 * Home page: https://www.pombuilder.com 
+* Blog: https://logigear.github.io/pombuilderblog/ 
 * User guide: https://github.com/logigearcorporation/pombuilder/wiki/User-Guide
 * Release notes: https://github.com/logigearcorporation/pombuilder/wiki/Release-Notes
+* User group: https://www.facebook.com/groups/pombuilder/ 
 
 ## Contacts
 * LogiGear Corp.
